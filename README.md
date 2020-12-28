@@ -16,7 +16,6 @@
 ### Connect with me 
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 
@@ -38,7 +37,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekysachintech&layout=compact&hide=html" alt="sattwikb" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekysachintech&show_icons=true" alt="sattwikb" /></p>
 
-[linkedin]: https://www.linkedin.com/in/geekysachin/
-[Twitter]: https://www.twitter.com/geekysachin2
-[Instagram]: https://www.instgram.com/geekysachin
-[facebook]:https://www.facebook.com/geekysachintech
+[linkedin]: https://www.linkedin.com/in/aurang07/
+[Instagram]: https://www.instgram.com/aurangzebkhan07
+[facebook]:https://www.facebook.com/profile.php?id=100004746105769
