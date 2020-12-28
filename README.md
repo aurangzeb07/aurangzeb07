@@ -35,7 +35,7 @@
 <br/>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurangzeb07&layout=compact&hide=html" alt="aurangzeb" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aurangzeb07&show_icons=true" alt="aurangzeb" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aurangzeb07&show_icons=true" alt="AurangzebKhan" /></p>
 
 [linkedin]: https://www.linkedin.com/in/aurang07/
 [Instagram]: https://www.instgram.com/aurangzebkhan07
